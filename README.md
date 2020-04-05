@@ -1,8 +1,10 @@
 # Linux-Command-Simulator
 
+
 An operating system interfaces with a user through a Command Line Interpreter (CLI). A CLI is a software module capable of interpreting textual commands coming either from the user’s keyboard or from a script file. A CLI is often referred to as a shell. 
 
 the command used in this project is : 
+
 
 1- clear : This command can be called to clear the current terminal screen and it can be redirected to clear the screen of some other terminal.
 
